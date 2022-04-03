@@ -1,3 +1,5 @@
 MongoPractices/.idea/*
 MongoPractices/MongoPractices/bin/*
 MongoPractices/MongoPractices/obj/*
+MongoPractices/MongoPractices/appsettings.Development.json
+MongoPractices/MongoPractices/appsettings.json
