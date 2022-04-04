@@ -7,9 +7,9 @@
 ```code
 {
     "BookStoreDatabase": {
-        "ConnectionString": "<MONGO_DB_CONNECTION_STRING",
-        "DatabaseName": "<DEFAULT_DATABASE_NAME",
-        "BooksCollectionName": "<BOOKS_COLLECTION_NAME"
+        "ConnectionString": "<MONGO_DB_CONNECTION_STRING>",
+        "DatabaseName": "<DEFAULT_DATABASE_NAME>",
+        "BooksCollectionName": "<BOOKS_COLLECTION_NAME>"
     },
     "Logging": {
         "LogLevel": {
